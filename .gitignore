@@ -18,3 +18,4 @@ jboss/server/minimal/work/**/*
 
 *.DEPLOYED
 .env
+.env
